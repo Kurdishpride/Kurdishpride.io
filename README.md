@@ -1,1 +1,1 @@
-# Kurdishpride.io
+# This will be built to encourage and tech anti-imperialism and anti-western power for one day this will be written in history as the website that re-United the world and against imperialism and Injustice towards a more Justice society that works together to build a brighter future for the children to come.
