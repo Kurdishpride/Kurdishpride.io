@@ -9,7 +9,7 @@
     <h2 style="margin: 0; font-size: 24px; text-shadow: 2px 2px 4px #000;">A Declaration of Intent</h2>
     
     <p style="margin: 10px 0 0; font-size: 16px; line-height: 1.4; text-shadow: 1px 1px 2px #000;">
-      "This will be built to encourage and teach anti-imperialism and anti-western power. One day, this will be written in history as the website that re-united the world against imperialism and injustice, moving towards a more just society that works together to build a brighter future for the children to come."
+      "This will  be built to encourage and teach anti-imperialism and anti-western power. One day, this will be written in history as the website that re-united the world against imperialism and injustice, moving towards a more just society that works together to build a brighter future for the children to come."
     </p>
 
   </div>
